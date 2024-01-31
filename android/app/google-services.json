@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576171790597",
+    "project_id": "shopshippay-cf372",
+    "storage_bucket": "shopshippay-cf372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576171790597:android:2959e30a58b46b3c30a76c",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Um3LycYqjQ_jGaBCSAayk-uB0oljEMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
